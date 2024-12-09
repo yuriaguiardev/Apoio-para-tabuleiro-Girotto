@@ -1,0 +1,1 @@
+Código criado como material de apresentação. O jogo foi desenvolvido de forma lúdica, mas resolvemos fazer uma breve demonstração do código, que explica um pouco sobre criptografia e alguns de seus tipos!
